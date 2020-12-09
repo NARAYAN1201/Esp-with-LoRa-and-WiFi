@@ -1,5 +1,6 @@
 # Esp-with-LoRa-and-WiFi
 In this project Esp32 and LoRa module is used to receive data from other LoRa node and to upload that data to the server of your own.
+Use esp32-LoRa-WiFi as the server side and the LoRa-Sender side as to send data or as a client side.
 
 # Pin-Connections
 ANA: Antenna                           
